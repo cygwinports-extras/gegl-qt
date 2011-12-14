@@ -1,0 +1,9 @@
+inherit qt4-qmake
+
+DESCRIPTION="Generic Graphics Library Qt bindings"
+HOMEPAGE="http://www.gegl.org/"
+SRC_URI="ftp://ftp.gimp.org/pub/${PN}/${PV_MAJ_MIN}/${P}.tar.bz2"
+
+PKG_NAMES="libgegl-qt4_0.1_0 libgegl-qt4_0.1-devel"
+libgegl_qt4_0_1_0_CONTENTS="usr/bin/cyggegl-qt4-0.1-0.dll usr/lib/gegl-0.1/ usr/lib/qt4/ usr/share/doc/"
+libgegl_qt4_0_1_devel_CONTENTS="usr/include/ usr/lib/lib* usr/lib/pkgconfig/"

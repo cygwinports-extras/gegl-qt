@@ -1,0 +1,8 @@
+category: Graphics KDE
+requires: libgegl-qt4_0.1_0 libgegl-devel libQtCore4-devel libQtDeclarative4-devel libQtGui4-devel
+external-source: gegl-qt
+sdesc: "GEGL Qt4 GUI library (development)"
+ldesc: "The purpose of gegl-qt is to make it easy for application 
+developers to use GEGL in applications with Qt based user interfaces. 
+gegl-qt aims to support Qt4 and both QWidget, QGraphicsView and QML 
+based user interfaces."

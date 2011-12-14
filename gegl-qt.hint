@@ -1,0 +1,6 @@
+category: Graphics KDE
+sdesc: "GEGL Qt4 GUI library (sources)"
+ldesc: "The purpose of gegl-qt is to make it easy for application
+developers to use GEGL in applications with Qt based user interfaces.
+gegl-qt aims to support Qt4 and both QWidget, QGraphicsView and QML
+based user interfaces."
